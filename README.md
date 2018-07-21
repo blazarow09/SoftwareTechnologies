@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/logo.png"  /></p>
 
-# <a href="https://softuni.bg/trainings/1896/programming-basics-with-csharp-march-2018/open#lesson-7992"><p align="center">Programming Basics with C# - March 2018<p></a>
+# <a href="https://softuni.bg/trainings/1940/software-technologies-july-2018"><p align="center">oftware Technologies - July 2018<p></a>
 
 ## <p align="center"> <a href="" > *CERTIFICATE* - Upcomming </a> </p>
 
