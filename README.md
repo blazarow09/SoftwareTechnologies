@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/logo.png"  /></p>
 
-# <a href="https://softuni.bg/trainings/1940/software-technologies-july-2018"><p align="center">oftware Technologies - July 2018<p></a>
+# <a href="https://softuni.bg/trainings/1940/software-technologies-july-2018"><p align="center">Software Technologies - July 2018<p></a>
 
 ## <p align="center"> <a href="" > *CERTIFICATE* - Upcomming </a> </p>
 
@@ -26,4 +26,4 @@
 ## C#
 * <a href="" > </a>
 
-[logo]:https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/code-wizard-html.png "Logo Title Text 2"
+[logo]: https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/code-wizard-html.png "Logo Title Text 2"
