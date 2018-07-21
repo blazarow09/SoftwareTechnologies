@@ -26,5 +26,5 @@
 ## C#
 * <a href="" > </a>
 
-<p align="center"><img src="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/code-wizard-html.png" with="350px"; height="850px" /></p>
+<p align="center"><img src="https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/code-wizard-html.png" with= 350; height= 850 /></p>
 
