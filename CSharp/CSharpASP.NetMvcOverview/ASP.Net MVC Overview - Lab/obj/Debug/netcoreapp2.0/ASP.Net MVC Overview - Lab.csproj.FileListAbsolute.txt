@@ -1,0 +1,10 @@
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.deps.json
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.runtimeconfig.json
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.runtimeconfig.dev.json
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.dll
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.pdb
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.csproj.CoreCompileInputs.cache
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.AssemblyInfoInputs.cache
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.AssemblyInfo.cs
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.dll
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\ASP.Net MVC Overview - Lab.pdb

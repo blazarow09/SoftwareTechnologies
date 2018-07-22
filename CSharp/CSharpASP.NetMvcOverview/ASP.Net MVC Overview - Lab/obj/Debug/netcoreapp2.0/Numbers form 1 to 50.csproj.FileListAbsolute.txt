@@ -1,0 +1,11 @@
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\Numbers form 1 to 50.deps.json
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\Numbers form 1 to 50.runtimeconfig.json
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\Numbers form 1 to 50.runtimeconfig.dev.json
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\Numbers form 1 to 50.dll
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\bin\Debug\netcoreapp2.0\Numbers form 1 to 50.pdb
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\Numbers form 1 to 50.csprojAssemblyReference.cache
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\Numbers form 1 to 50.csproj.CoreCompileInputs.cache
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\Numbers form 1 to 50.AssemblyInfoInputs.cache
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\Numbers form 1 to 50.AssemblyInfo.cs
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\Numbers form 1 to 50.dll
+B:\Projects\Software Technologies\CSharp\CSharpASP.NetMvcOverview\ASP.Net MVC Overview - Lab\obj\Debug\netcoreapp2.0\Numbers form 1 to 50.pdb
