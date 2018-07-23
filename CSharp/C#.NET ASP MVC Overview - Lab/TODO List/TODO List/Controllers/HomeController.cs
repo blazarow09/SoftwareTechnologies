@@ -12,11 +12,11 @@ namespace TODO_List.Controllers
             using (var db = new TaskDbContext())
             {
                 var tasks = db.Tasks.ToList();
-
-                return View("Index", new List<Task>());
+                
+                    return View("Index", tasks);
             }
         }
-
+        
         
     }
 }
