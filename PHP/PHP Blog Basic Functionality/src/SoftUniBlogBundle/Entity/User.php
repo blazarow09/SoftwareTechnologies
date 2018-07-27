@@ -51,6 +51,13 @@ class User implements UserInterface
      */
     private $articles;
 
+
+    public function __construct()
+    {
+        $this->articles = new ArrayCollection();
+    }
+
+
     /**
      * @return \Doctrine\Common\Collections\Collection
      */
@@ -62,7 +69,7 @@ class User implements UserInterface
     /**
      * @param \SoftUniBlogBundle\Entity\Article $article
      *
-     * $return User
+     * @return User
      */
     public function addPost(Article $article)
     {
@@ -70,12 +77,6 @@ class User implements UserInterface
 
         return $this;
     }
-
-    public function __construct()
-    {
-        $this->articles = new ArrayCollection();
-    }
-
 
     /**
      * Get id
