@@ -19,6 +19,7 @@
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Basic%20Syntax%20-%20Exercise" > PHP Basic Syntax - Exercises</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Basic%20Syntax%20-%20Lab" > PHP Basic Syntax - Lab</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Calculator" > PHP Calculator </a>
+* <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Blog%20Basic%20Functionality" > PHP Blog Basic Functionality </a>
 -------------------------------------------------------------------
 ## JAVA
 * <a href="" > </a>
