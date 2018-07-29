@@ -19,7 +19,7 @@ class ArticleController extends Controller
  * @Route("/article/create", name="article_create")
  * @Security("is_granted('IS_AUTHENTICATED_FULLY')")
  *
- * @return \Symfony\Component\HttpFoundation\RedirectResponse|\Symfony\Component\HttpFoundation\Response
+ * @return \Symfony\Component\HttpFoundation\Response
  */
     public function create(Request $request)
     {
