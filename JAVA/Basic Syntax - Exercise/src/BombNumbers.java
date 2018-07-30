@@ -15,8 +15,10 @@ public class BombNumbers {
 
         String[] bombTokens = scanner.nextLine().split(" ");
 
+
         int bombNumber = Integer.parseInt(bombTokens[0]);
         int powerOfBomb = Integer.parseInt(bombTokens[1]);
+
 
         while (true) {
 
