@@ -8,5 +8,6 @@ public class BooleanVariable {
         boolean isTrue = Boolean.parseBoolean(scan.nextLine());
 
         System.out.println(isTrue ? "Yes" : "No");
+
     }
 }
