@@ -18,6 +18,8 @@ public class User {
 
     private Set<Role> roles;
 
+    private Set<Article> articles;
+
     public User(String email, String fullName, String password) {
         this.email = email;
         this.password = password;
@@ -34,7 +36,7 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Integer getId() {
-        return id;
+        return this.id;
     }
 
     public void setId(Integer id) {
@@ -43,7 +45,7 @@ public class User {
 
     @Column(name = "email", unique = true, nullable = false)
     public String getEmail() {
-        return email;
+        return this.email;
     }
 
     public void setEmail(String email) {
@@ -52,7 +54,7 @@ public class User {
 
     @Column(name = "fullName", nullable = false)
     public String getFullName() {
-        return fullName;
+        return this.fullName;
     }
 
     public void setFullName(String fullName) {
@@ -76,7 +78,7 @@ public class User {
 
     @OneToMany(mappedBy = "author")
     public Set<Article> getArticles() {
-        return articles;
+        return this.articles;
     }
 
     public void setArticles(Set<Article> articles) {
@@ -87,7 +89,7 @@ public class User {
         this.roles = roles;
     }
 
-    private Set<Article> articles;
+
 
     public void addRole(Role role) {
         this.roles.add(role);
