@@ -1,4 +1,8 @@
 package softuniBlog.repository;
 
-public interface ArticleRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+import softuniBlog.entity.Article;
+
+public interface ArticleRepository extends JpaRepository<Article, Integer> {
+
 }
