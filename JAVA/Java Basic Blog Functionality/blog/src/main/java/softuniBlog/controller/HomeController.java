@@ -20,11 +20,8 @@ public class HomeController {
 
         List<Article> articles = this.articleRepository.findAll();
 
-
         model.addAttribute("view", "home/index");
         model.addAttribute("articles", articles);
         return "base-layout";
     }
-
-
 }
