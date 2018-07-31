@@ -35,7 +35,7 @@ public class ArticleControler {
 
     @PreAuthorize("isAuthenticated()")
     @PostMapping("article/create")
-    public String createProcess(ArticleBindingModel articleBindingModel){
+    public String createProcess(ArticleBindingModel articleBindingModel) {
 
         UserDetails user = (UserDetails) SecurityContextHolder.getContext()
                 .getAuthentication().getPrincipal();
@@ -54,9 +54,9 @@ public class ArticleControler {
     }
 
     @GetMapping("/article/{id}")
-    public String details(Model model, @PathVariable Integer id){
+    public String details(Model model, @PathVariable Integer id) {
 
-        if (!this.articleRepository.exists(id)){
+        if (!this.articleRepository.exists(id)) {
             return "redirect:/";
         }
 
@@ -70,9 +70,9 @@ public class ArticleControler {
 
     @GetMapping("/article/edit/{id}")
     @PreAuthorize("isAuthenticated()")
-    public String edit(@PathVariable Integer id, Model model){
+    public String edit(@PathVariable Integer id, Model model) {
 
-        if (!this.articleRepository.exists(id)){
+        if (!this.articleRepository.exists(id)) {
             return "redirect:/";
         }
 
@@ -86,9 +86,9 @@ public class ArticleControler {
 
     @PostMapping("/article/edit/{id}")
     @PreAuthorize("isAuthenticated()")
-    public String editProcess(@PathVariable Integer id, ArticleBindingModel articleBindingModel){
+    public String editProcess(@PathVariable Integer id, ArticleBindingModel articleBindingModel) {
 
-        if(!this.articleRepository.exists(id)){
+        if (!this.articleRepository.exists(id)) {
             return "redirect:/";
         }
 
@@ -100,5 +100,34 @@ public class ArticleControler {
         this.articleRepository.saveAndFlush(article);
 
         return "redirect:/article/" + article.getId();
+    }
+
+    @GetMapping("article/delete/{id}")
+    @PreAuthorize("isAuthenticated()")
+    public String deleteView(Model model, @PathVariable Integer id){
+        if (!this.articleRepository.exists(id)){
+            return "redirect:/";
+        }
+
+        Article article = this.articleRepository.findOne(id);
+
+        model.addAttribute("view", "article/delete");
+        model.addAttribute("article", article);
+
+        return "base-layout";
+    }
+
+    @PostMapping("article/delete/{id}")
+    @PreAuthorize("isAuthenticated()")
+    public String deleteAction(@PathVariable Integer id){
+        if (!this.articleRepository.exists(id)){
+            return "redirect:/";
+        }
+
+        Article article = this.articleRepository.findOne(id);
+
+        this.articleRepository.delete(article);
+
+        return "redirect:/";
     }
 }
