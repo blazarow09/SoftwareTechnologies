@@ -24,9 +24,12 @@ public class User {
         this.fullName = fullName;
 
         this.roles = new HashSet<>();
+        this.articles = new HashSet<>();
     }
 
-    public User() {    }
+    public User() {
+
+    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -71,9 +74,20 @@ public class User {
         return roles;
     }
 
+    @OneToMany(mappedBy = "author")
+    public Set<Article> getArticles() {
+        return articles;
+    }
+
+    public void setArticles(Set<Article> articles) {
+        this.articles = articles;
+    }
+
     public void setRoles(Set<Role> roles) {
         this.roles = roles;
     }
+
+    private Set<Article> articles;
 
     public void addRole(Role role) {
         this.roles.add(role);
