@@ -1,5 +1,4 @@
 package softuniBlog.entity;
-import javax.jws.soap.SOAPBinding;
 import javax.persistence.*;
 
 @Entity
@@ -35,7 +34,7 @@ public class Article {
 
     @Column(columnDefinition = "text", nullable = false)
     public String getContent() {
-        return content;
+        return this.content;
     }
 
     public void setContent(String content) {
@@ -45,7 +44,7 @@ public class Article {
     @ManyToOne()
     @JoinColumn(nullable = false,name = "authorId")
     public User getAuthor() {
-        return author;
+        return this.author;
     }
 
     public void setAuthor(User author) {
@@ -53,10 +52,19 @@ public class Article {
     }
 
     public Article(String title, String content, User author) {
-
+        this.title = title;
+        this.content = content;
+        this.author = author;
     }
 
     public Article() {
+
+    }
+
+    @Transient
+    public String getSummary() {
+
+        return this.getContent().substring(0, this.getContent().length()/2) + "...";
 
     }
 }
