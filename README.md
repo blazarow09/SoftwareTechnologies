@@ -13,25 +13,29 @@
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVASCRIPT/JavaScript%20Syntax%20and%20Basic%20Web%20-%20Lab" > JAVASCRIPT Syntax and Basic Web - Lab</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVASCRIPT/JavaScript%20Blog%20Basic%20Functionality" > JAVASCRIPT Basic Blog Functionality </a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVASCRIPT/JavaScript%20Express%20Overview%20-%20Calculator" > JAVASCRIPT Express Overview - Calculator </a>
-* <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVASCRIPT/ProjectRider%20Exam%20JS" > ProjectRider EXAM</a>
+* <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVASCRIPT/ExamPreparation
+" > ExamPreparation </a>
 -------------------------------------------------------------------
 ## PHP
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Basic%20Syntax%20-%20Exercise" > PHP Basic Syntax - Exercises</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Basic%20Syntax%20-%20Lab" > PHP Basic Syntax - Lab</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Calculator" > PHP Basic Web - Calculator </a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/PHP%20Blog%20Basic%20Functionality" > PHP Basic Blog Functionality </a>
+* <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/PHP/ExamPreparation
+" > ExamPreparation </a>
 -------------------------------------------------------------------
 ## JAVA
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVA/Basic%20Syntax%20-%20Lab" > Basic Syntax - Lab</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVA/Basic%20Syntax%20-%20Exercise" > Basic Syntax - Exercise</a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVA/Java%20Basic%20Web%20-%20Calculator" > Java Basic Web - Calculator</a>
+* <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/JAVA/ExamPreparation
+" > ExamPreparation </a>
 -------------------------------------------------------------------
 ## C#
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/CSharp" > C#.NET ASP MVC Overview - Lab </a>
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/CSharp/ExamPreparation
 " > ExamPreparation </a>
 
-https://github.com/blazarow09/SoftwareTechnologies/tree/master/CSharp/ExamPreparation
 
 
 [logo]: https://github.com/blazarow09/ProgrammingBasicsWithCsharp/blob/master/img/code-wizard-html.png "Logo Title Text 2"
