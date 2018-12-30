@@ -2,7 +2,7 @@
 
 # <a href="https://softuni.bg/trainings/1940/software-technologies-july-2018"><p align="center">Software Technologies - July 2018<p></a>
 
-## <p align="center"> <a href="https://softuni.bg/certificates/details/56921/dbb8d7a0" > *Certificate* C# Advanced </a> </p>
+## <p align="center"> <a href="https://softuni.bg/certificates/details/56921/dbb8d7a0" > *Certificate* Software Technologies </a> </p>
 
 ## HTML
 * <a href="https://github.com/blazarow09/SoftwareTechnologies/tree/master/HTML/HTML5%20and%20CSS%20-%20Exercises" > HTML5 and CSS - Exercises </a>
